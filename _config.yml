@@ -1,13 +1,9 @@
-title: Brume
-author: Aigars Dzerviniks
-description: It's simple. It's easy to use. It's a Jekyll theme.
+name: Solar Theme
+url: http://example.org
+description: A stylish blog using the Solarized color palette
 
-highlighter: null
-permalink: /:title
+permalink: /:year/:month/:day/:title/
+paginate: 10
 
-url:
-baseurl:
-
-sass:
-  sass_dir: public/css
-  style: :compressed
+gems: [jekyll-paginate]
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
