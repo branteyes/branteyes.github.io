@@ -1,11 +1,11 @@
 ---
 layout: default
-title: About
+title: About Author
 ---
 
-This is where you would but a short bio, and/or a description of your site. It also serves as an example of how to set up a standalone page. For example:
+  我是一名在校大学生，今年20岁，喜欢编程，想要做出属于自己的App，网站，目前在学习iOS开发，想在这里写博客，
+记录自己的学习历程，如果我写出了让你们喜欢的文章，我将非常开心。
 
-<img src="/images/shakespeare.png" class="right" />
-**William Shakespeare** (26 April 1564 – 23 April 1616) was an English poet and playwright, widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist. He is often called England's national poet and the "Bard of Avon". His extant works, including some collaborations, consist of about 38 plays, 154 sonnets, two long narrative poems, and a few other verses, the authorship of some of which is uncertain. His plays have been translated into every major living language and are performed more often than those of any other playwright.
+  最后感谢你们能来到我的小世界。   
 
-Shakespeare was born and brought up in Stratford-upon-Avon. At the age of 18, he married Anne Hathaway—no, not *that* Anne Hathaway—with whom he had three children.
+                                                            -2017.03.18
