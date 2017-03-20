@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: branteyes_妖言
+url: branteyes.github.io
+description: 日常学习总结和项目开发记录
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
