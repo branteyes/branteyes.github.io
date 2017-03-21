@@ -1,7 +1,7 @@
 ---
 layout: post
 title: stack,queue,linked list
-date: 2017-03-19
+date:  2017-03-19
 categories: 阅读记录 《啊哈算法》
 ---
 

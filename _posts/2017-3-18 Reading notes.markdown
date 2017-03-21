@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "sorts"
-date: 22017-03-18
+date: 2017-03-18
 categories: 阅读记录 《啊哈算法》
 ---
 ## 简单的三种排序
